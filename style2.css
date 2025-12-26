@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+caption{
+    border: 2px solid black;
+    border-bottom: 0px;
+    background-color: rgb(228, 159, 70);
+    border-radius: 8px;
+    border-collapse: collapse;
+}
+body{
+        background-color: rgb(255, 239, 149);
+
+}
+table{
+    border: 2px,solid,black;
+    background-color: rgb(135, 156, 135);
+    border-collapse:collapse ;
+    width: 700px;
+    height: 300px;
+    margin-left: 300px;
+}
+th{
+    background-color: bisque;
+    border: 1px,solid,black;
+    padding: 25px;
+    
+}
+td{
+    border: 1px,solid,black;
+    padding: 20px;
+
+}
+tr:nth-child(even){
+    background-color: rgb(245, 21, 21);
+}
+
+
+
+
+

@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    margin-top: 0px;
+}
+body{
+    background-color: blanchedalmond;
+}
+table{
+width: 400px;
+border: 1px ,solid, #000;
+margin-left: 400px;
+border-collapse: collapse;
+}
+
+th{
+    border: 1px #000 solid;
+      background-color: rgb(140, 146, 144);
+      padding: 15px;
+}
+.nm{
+    background-color: rgb(130, 134, 129);
+    border:1px solid rgb(0, 0, 0);
+}
+table tr td{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 15px;
+    padding-right: 100px;
+
+}
+
+
+
